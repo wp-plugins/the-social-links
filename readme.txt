@@ -1,7 +1,6 @@
 === The Social Links ===
 Contributors: DigitalLeap
 Tags: social, social bookmarks, social links, social networking
-Donate link: http://digitalleap.co.za/donate/
 Requires at least: 3.7
 Tested up to: 4.2.2
 Stable tag: 0.9
