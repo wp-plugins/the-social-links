@@ -8,13 +8,15 @@ class The_Social_Links_Frontend{
 
     public static function init(){
 
-        add_action( 'widgets_init', function(){
-             register_widget( 'The_Social_Links_Widget' );
-        });
+        add_action( 'widgets_init', __CLASS__ . '::init_widget' );
 
 
         add_shortcode( 'the-social-links', __CLASS__ . '::shortcode' );
 
+    }
+
+    public static function init_widget(){
+         register_widget( 'The_Social_Links_Widget' );
     }
 
     public static function shortcode( $atts ){

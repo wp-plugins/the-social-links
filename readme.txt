@@ -3,7 +3,7 @@ Contributors: DigitalLeap
 Tags: social, social bookmarks, social links, social networking
 Requires at least: 3.7
 Tested up to: 4.2.2
-Stable tag: 0.9
+Stable tag: 0.9.0.1
 License: GPL2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -56,14 +56,19 @@ You can change the order on your settings page.
 
 
 == Screenshots ==
-1. 1. Settings Page
-2. 2. Default Social Links
+
+1. Settings Page
+2. Default Social Links
 
 == Changelog ==
+= 0.9.0.1 =
+* Changed the way the widget is registered.
+
 = 0.9 =
 * Recreated the plugin from the ground up
 * Added support for font based icons
 * Removed extra social networks
+* Ability to order the social networks
 
 = 0.4.2.2 =
 * Added YouVersion correctly.
