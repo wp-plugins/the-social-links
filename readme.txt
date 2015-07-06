@@ -2,8 +2,8 @@
 Contributors: DigitalLeap
 Tags: social, social bookmarks, social links, social networking
 Requires at least: 3.7
-Tested up to: 4.2.2
-Stable tag: 0.9.0.1
+Tested up to: 4.3
+Stable tag: 0.9.1
 License: GPL2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -61,8 +61,13 @@ You can change the order on your settings page.
 2. Default Social Links
 
 == Changelog ==
+= 0.9.1 =
+* Fixed fatal error on getting social networks. Should fix memory leak.
+* Used construct on the classes to support depreciation in 4.3
+
 = 0.9.0.1 =
 * Changed the way the widget is registered.
+* Fixed default style link hover colour in widgets.
 
 = 0.9 =
 * Recreated the plugin from the ground up
