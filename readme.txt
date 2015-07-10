@@ -3,7 +3,7 @@ Contributors: DigitalLeap
 Tags: social, social bookmarks, social links, social networking
 Requires at least: 3.7
 Tested up to: 4.3
-Stable tag: 0.9.1
+Stable tag: 1.0
 License: GPL2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -24,7 +24,7 @@ It's important to note that we will only support these networks in the free vers
 
 We've also added support for a **shortcode** (`[the-social-links]`) for use in WordPress posts and pages and a **custom template tag** (`<?php the_social_links();?>`) for use in template files.
 
-For support and feature requests head to [digitalleap.co.za](http://digitalleap.co.za/wordpress/plugin/the-social-links/)
+For support (priority support for $15) and feature requests head to [digitalleap.co.za](http://digitalleap.co.za/wordpress/plugin/the-social-links/)
 
 
 == Installation ==
