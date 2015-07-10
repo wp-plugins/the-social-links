@@ -304,7 +304,7 @@ class The_Social_Links{
                 
                 <p>
                     <a href="https://digitalleap.co.za/wordpress/plugins/social-links/the-social-links-pack/">Want extra social networks? ($5)</a> | <a href="https://digitalleap.co.za/wordpress/plugins/social-links/priority-support/">Premium Support ($15)</a> | <a href="https://support.digitalleap.co.za/">Get Support</a><br />
-                    <a href="https://support.digitalleap.co.za/">If you like <strong>The Social Links</strong> please leave us a &#9733;&#9733;&#9733;&#9733;&#9733; rating. A huge thank you from Digital Leap in advance!</a><br />
+                    If you like <strong>The Social Links</strong> please leave us a <a href="https://wordpress.org/support/view/plugin-reviews/the-social-links?filter=5#postform" target="_blank" class="tsl-rating-link" data-rated="Thanks a lot! :D">&#9733;&#9733;&#9733;&#9733;&#9733;</a> rating. A huge thank you from Digital Leap in advance!<br />
                     <a href="https://digitalleap.co.za/wordpress/plugins/social-links/">Visit The Social Links page on the Digital Leap website</a>
                 </p>
                 <p><a href="http://digitalleap.co.za/"><img src="https://digitalleap.co.za/logos/dldark.png" alt="Digital Leap" title="Digital Leap" /></p>
