@@ -20,11 +20,32 @@ The Social Links plugin adds a widget and shortcode to your WordPress website al
 * Instagram
 * Pintrest
 
-It's important to note that we will only support these networks in the free version. We will introduce a premium add-on that will include support for more networks.
+It's important to note that we will only support these networks in the free version. Want extra social networks? You can purchase [The Social Links Pack](https://digitalleap.co.za/wordpress/plugins/social-links/the-social-links-pack/) for only $5 (unlimited commercial use) which gives you access to:
+
+* Behance
+* Bitcoin
+* Delicious
+* DeviantArt
+* Digg
+* Dribble
+* Flickr
+* Foursquare
+* GitHub
+* LastFM
+* Medium
+* Skype
+* Soundcloud
+* Spotify
+* Tumblr
+* Vine
+* WeChat
+* WordPress
 
 We've also added support for a **shortcode** (`[the-social-links]`) for use in WordPress posts and pages and a **custom template tag** (`<?php the_social_links();?>`) for use in template files.
 
 For support (priority support for $15) and feature requests head to [digitalleap.co.za](http://digitalleap.co.za/wordpress/plugin/the-social-links/)
+
+** The reason we charge for support and extra social networks is to make sure we maintain a high level of support on this plugins. Our developers need to get paid even though they love doing these kinds of things. **
 
 
 == Installation ==
