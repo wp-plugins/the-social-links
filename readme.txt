@@ -61,6 +61,9 @@ You can change the order on your settings page.
 2. Default Social Links
 
 == Changelog ==
+= 1.0 =
+* Started implementing extendable features.
+
 = 0.9.1 =
 * Fixed fatal error on getting social networks. Should fix memory leak.
 * Used construct on the classes to support depreciation in 4.3

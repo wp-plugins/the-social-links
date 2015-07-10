@@ -63,7 +63,16 @@ class The_Social_Links_Frontend{
     }
 
 }
-$frontend = new The_Social_Links_Frontend;
+
+/**
+ * Extension main function
+ */
+function __tsl_frontend_main() {
+    new The_Social_Links_Frontend();
+}
+
+// Initialize plugin when plugins are loaded
+add_action( 'plugins_loaded', '__tsl_frontend_main' );
 
 class The_Social_Links_Widget extends WP_Widget {
 
